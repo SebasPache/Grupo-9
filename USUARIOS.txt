@@ -1,0 +1,5 @@
+-----------------------------------------------
+Nombre de usuario: Sebas
+Edad: 18
+Dni: 1986587
+Dinero acumulado: S/.12345
